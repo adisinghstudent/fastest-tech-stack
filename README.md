@@ -14,15 +14,15 @@ Agent skill for creating full-stack applications with the fastest modern stack.
 ## Install
 
 ```bash
-npx add-skill adico/fastest-tech-stack
+npx add-skill adisinghstudent/fastest-tech-stack
 ```
 
 Or install for a specific agent:
 
 ```bash
-npx add-skill adico/fastest-tech-stack -a claude-code
-npx add-skill adico/fastest-tech-stack -a cursor
-npx add-skill adico/fastest-tech-stack -a codex
+npx add-skill adisinghstudent/fastest-tech-stack -a claude-code
+npx add-skill adisinghstudent/fastest-tech-stack -a cursor
+npx add-skill adisinghstudent/fastest-tech-stack -a codex
 ```
 
 ## Usage
